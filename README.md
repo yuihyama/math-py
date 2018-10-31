@@ -1,4 +1,4 @@
-# math-py
+# mymathpy
 
 
 ## License
